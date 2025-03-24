@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7a7aeef-5e59-4dd7-96e0-e5e7874c9f05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Space_Invaders.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alien.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/const.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/defence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp_orig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/explosions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grids.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stars_orig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instructions.png" beforeDir="false" afterPath="$PROJECT_DIR$/instructions.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,25 +32,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.alien.executor": "Run",
-    "Python.const.executor": "Run",
-    "Python.defence.executor": "Debug",
-    "Python.exp2.executor": "Run",
-    "Python.explosions.executor": "Run",
-    "Python.grids.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.missile.executor": "Run",
-    "Python.player.executor": "Run",
-    "Python.stars.executor": "Run",
-    "Python.stars2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/paulb/OneDrive/Python/Arcade_based_programs/Space_Invaders/Instructions.png"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.alien.executor&quot;: &quot;Run&quot;,
+    &quot;Python.const.executor&quot;: &quot;Run&quot;,
+    &quot;Python.defence.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.exp2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.explosions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grids.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.missile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.player.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stars2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/paulb/OneDrive/Python/Arcade_based_programs/Space_Invaders/Instructions.png&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\paulb\OneDrive\Python\Arcade_based_programs\Space_Invaders" />
