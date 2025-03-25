@@ -47,7 +47,7 @@ class Alien(arcade.Sprite):
         if atype == Alien.NORMAL:
             """ initialise at row and column """
             super().__init__(self.normal_flap_0)
-            self.center_y = Const.WINDOW_HEIGHT - start_row * self.height
+            self.center_y = Const.WINDOW_HEIGHT - start_row * self.height * 1.5
             self.center_x = 175 + col_number * self.width * 1.25
             if Alien.moving:
                 self.change_x = Alien.speed
@@ -106,7 +106,7 @@ class Alien(arcade.Sprite):
     def move_down(self):
         """ used when reached side of screen move down and reverse direction """
         self.change_x *= -1
-        self.center_y -= self.height // 2
+        self.center_y -= self.height / 1.5
         if self.center_y < self.height / 2:
             self.kill()
 
